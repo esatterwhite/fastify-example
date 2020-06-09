@@ -1,0 +1,28 @@
+{
+  "name": "fastify-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esatterwhite/fastify-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esatterwhite/fastify-example/issues"
+  },
+  "homepage": "https://github.com/esatterwhite/fastify-example#readme",
+  "dependencies": {
+    "fastify": "^2.14.1",
+    "fastify-autoload": "^1.2.2",
+    "fastify-plugin": "^1.6.1",
+    "fluent-schema": "^1.0.3",
+    "pino": "^6.3.2",
+    "pino-pretty": "^4.0.0"
+  }
+}
